@@ -1,0 +1,25 @@
+{
+  "name": "hw-node-js-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Tamia5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tamia5/hw-node-js-01/issues"
+  },
+  "homepage": "https://github.com/Tamia5/hw-node-js-01#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "nanoid": "^5.0.4"
+  }
+}
